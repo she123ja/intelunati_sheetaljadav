@@ -1,4 +1,4 @@
-# Social Distancing Detector   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/ParthPathak27/Social-Distancing-Detector/blob/master/LICENSE)  [![](https://img.shields.io/badge/Parth-Pathak-brightgreen.svg?colorB=ff0000)](https://www.linkedin.com/in/parth-pathak-learner/)
+# Social Distancing Detector   [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/ParthPathak27/Social-Distancing-Detector/blob/master/LICENSE) 
 An AI Tool to Help Customers Monitor Social Distancing in the Workplace.
 
 
